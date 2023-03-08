@@ -8,7 +8,6 @@ The purpose of the project is to design and implement different databases which 
 * Computational Engine - [Spark](https://spark.apache.org/)
 
 For each technology a database is designed, data are extracted from sources (or generated randomly for didactic purpose) and different queries are written to study and learn the used language. 
-
 📖 A final [report](https://github.com/GppCalcagno/SMBUD-Project/blob/main/final_report.pdf) (and [presentation](https://github.com/GppCalcagno/SMBUD-Project/blob/main/final_presentation.pdf)) is available in which all the phases of the 3 projects are described in detail.
 ---
 
