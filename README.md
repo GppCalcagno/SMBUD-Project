@@ -24,7 +24,8 @@ MongoDB is used to represent the main features and data of a collection of docum
  ### 3) Spark <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?logo=apachespark&logoColor=#E35A16">
  Spark is used to represent the main features of the dataset used in the first project, exploiting the  efficiency of the computational engine. In the linked folder is present a Jupyter Notebook that takes as input the dataset and transforms it in RDD and uses it in the queries.
  
- 
+ ---
+ Final Evaluation: 10.8/11
  
  
   
