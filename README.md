@@ -14,9 +14,9 @@ For each technology a database is designed, data are extracted from sources (or 
 ---
 
 ### 1) Graph Database <img src="https://img.shields.io/badge/Neo4j-018bff?&logo=neo4j&logoColor=white">
-Neo4j is used to represent with a graph db the main relationship between publications, authors, institutions and so on. All the data is taken starting from [DBLP](https://dblp.org/) XML and some records are generated randomly using some python scripts. In the linked folder is present:
+Neo4j is used to represent with a graph db the main relationship between publications, authors, institutions and so on. All the data is taken starting from [DBLP](https://dblp.org/) XML (some GBs) and some records are generated randomly using some python scripts. In the linked folder is present:
  * XML parser 
- * Dataset 
+ * Dataset obtained (franction of the entire set)
  * Queries executed and Load Commands 
  
  
