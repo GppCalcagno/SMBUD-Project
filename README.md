@@ -19,7 +19,7 @@ Neo4j is used to represent with a graph db the main relationship between publica
  * Dataset obtained (franction of the entire set)
  * Queries executed and Load Commands 
  
- 
+ [DMLP database dump](https://dblp.org/xml/?C=S;O=A)
  ### 2) Document Database <img src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white">
 MongoDB is used to represent the main features and data of a collection of documents (citations, sections, figures). Records are uploaded as JSON using a Python script to convert data of the first project from csv to json (text of the documents is generated randomly). In the linked folder is present:
  * Python script to convert data
